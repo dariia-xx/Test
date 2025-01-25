@@ -36,6 +36,8 @@ Maybe, anyhow, I'll get another toy
 And everything will happen
 And you wonder
 
+КАКАЯ-ТО СТРОКА
+
 
 I wonder how, I wonder why
 Yesterday, you told me 'bout the blue, blue sky
